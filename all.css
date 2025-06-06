@@ -74,6 +74,10 @@ body{
     font-size: 24px;
     letter-spacing: 2px;
 }
+.header ul li a{
+    text-decoration: none;
+    color: #000;
+}
 .banner{
     display: flex;
     max-width: 1920px;
@@ -163,8 +167,7 @@ body{
     background-color: #0027D5;
     height: 3.5px;
     width: 30px;
-    margin: 0 0 0 1.4em;
-
+    margin: 0.6em 0 1.5em 0.3em;
 }
 .contentOne .contentFooter{
     display: flex;
